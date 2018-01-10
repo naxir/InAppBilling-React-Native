@@ -1,5 +1,5 @@
 
-**We can test the result with static responses, you can use reserved productids asd defined by Google.**
+**We can test the result with static responses, you can use reserved productids as defined by Google.**
 There are four reserved product IDs for testing static In-app Billing responses:
 
 **android.test.purchased**
