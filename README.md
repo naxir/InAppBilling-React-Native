@@ -1,2 +1,2 @@
-Please not that you can only test the apk on readl device 
+Please not that you can only test the apk on real device 
 Thanks 
